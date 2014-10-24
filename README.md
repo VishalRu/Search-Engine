@@ -21,4 +21,4 @@ In this Project, we have implemented text based search engine using methods as d
 
 And, after implementing above discussed algorithms and we analyzed the results using different input data set on differnt algorthmss.
 
-Please refer to the wiki page for the analysis of various algorithms.
+Please refer to the "Analysis of Algorithms in Text based Search Engine" for the analysis of various algorithms.
