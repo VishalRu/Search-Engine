@@ -19,6 +19,6 @@ In this Project, we have implemented text based search engine using methods as d
 
 8.)	Coded and applied Scalar clustering so that user can get relevant suggestions while typing query word.
 
-And, after implementing above discussed algorithms and we analyzed the results using different input data set on differnt algorthmss.
+And, after implementing above discussed algorithms and we analyzed the results using different input data set on differnt algorthms.
 
 Please refer to the "Analysis of Algorithms in Text based Search Engine" for the analysis of various algorithms.
